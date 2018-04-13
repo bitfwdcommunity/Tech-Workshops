@@ -1,3 +1,9 @@
-# slides
-Community sessions shared slides
-Pretty self explanatory yall right ? hehe
+# bitfwd Community Tech Workshops  
+
+This repository has all content for the bitfwd Community Tech Worshops
+
+Session #1: Bitcoin
+Sesession #2: Ethereum
+Session #3: Cryptovaluations
+
+
